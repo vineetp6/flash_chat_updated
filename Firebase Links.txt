@@ -1,0 +1,33 @@
+https://firebase.flutter.dev/docs/overview/
+https://firebase.google.com/docs/cli#install-cli-windows
+https://firebase.flutter.dev/docs/manual-installation/
+https://stackoverflow.com/questions/63492211/no-firebase-app-default-has-been-created-call-firebase-initializeapp-in
+https://firebase.flutter.dev/docs/manual-installation/
+
+https://firebase.google.com/docs/flutter/setup?platform=ios
+
+Firebase Setup instructions and Tutorials :
+https://firebase.google.com/codelabs/firebase-get-to-know-flutter#1
+https://firebase.google.com/codelabs/firebase-get-to-know-flutter#3
+https://firebase.google.com/codelabs/firebase-get-to-know-flutter#4
+
+
+Flutter Desktop Support : 
+https://docs.flutter.dev/development/platform-integration/desktop
+
+https://docs.flutter.dev/development/platform-integration/desktop
+package_names ==>> Do use lowercase_with_underscores for package names.Package names should be all lowercase, with underscores to separate words, just_like_this. Use only basic Latin letters and Arabic digits: [a-z0-9_]. Also, make sure the name is a valid Dart identifier -- that it doesn't start with digits and isn't a reserved word.
+
+
+
+https://firebase.flutter.dev/docs/firestore/overview/
+https://stackoverflow.com/questions/44909653/visual-studio-code-target-of-uri-doesnt-exist-packageflutter-material-dart
+https://stackoverflow.com/questions/67884326/requires-your-app-to-be-migrated-to-the-android-embedding-v2-how-to-solve
+
+
+
+
+
+Misslaneous : 
+https://stackoverflow.com/questions/53517382/query-a-single-document-from-firestore-in-flutter-cloud-firestore-plugin
+https://medium.flutterdevs.com/using-firebase-firestore-in-flutter-b0ea2c62bc7
